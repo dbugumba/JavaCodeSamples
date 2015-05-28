@@ -1,2 +1,2 @@
-# humble-coding
-A software repository for my R&amp;D projects (Java, Web developing, xml schemas, T-SQL, etc).
+# My Java code samples:
+A software repository for my Java projects.
